@@ -1,0 +1,33 @@
+# 🌿 BloomBuddy Project Statement
+
+## 📖 Problem Definition
+Many people forget to water their plants on time, which affects plant health. BloomBuddy solves this problem by reminding users when each plant needs watering.
+
+## 🎯 Objectives
+- Help users track multiple plants with custom watering schedules.
+- Provide reminders based on last watered date and frequency.
+- Demonstrate programming concepts from the syllabus:
+  - Problem solving & top-down design
+  - Algorithms and pseudocode
+  - Python functions, lists, and dictionaries
+  - Control flow (loops, conditionals)
+
+## 🛠 Expected Outcomes
+- A working console-based application in Python.
+- Clear documentation including flowcharts and pseudocode.
+- GitHub repository with organized project files.
+
+## 📂 Development Process
+1. Problem Definition  
+2. Requirement Analysis  
+3. Top-Down Design / Modularization  
+4. Algorithm Development (flowcharts, pseudocode)  
+5. Implementation in Python  
+6. Testing and Refinement  
+
+---
+
+## 👩‍💻 Author
+**Maseera**  
+Course: *Introduction to Computer Problem Solving & Programming*  
+Submission Deadline: November 25, 2025
