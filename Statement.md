@@ -29,5 +29,8 @@ DEVELOPMENT PROCESS
 
 AUTHOR 
 Name: Maseera Anees 
+
 Registration Number: 25BCY10033
+
 Course: Introduction to Computer Problem Solving & Programming 
+
