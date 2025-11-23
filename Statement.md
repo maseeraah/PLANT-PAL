@@ -27,10 +27,7 @@ DEVELOPMENT PROCESS
 5. Implementation in Python  
 6. Testing and Refinement  
 
-AUTHOR 
-Name: Maseera Anees 
-
-Registration Number: 25BCY10033
-
+ 
+Name: Maseera Anees, 
+Registration Number: 25BCY10033, 
 Course: Introduction to Computer Problem Solving & Programming 
-
